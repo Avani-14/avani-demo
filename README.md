@@ -1,4 +1,4 @@
 # avani-demo
 This is my first Git Repository.
 <br>
-Author-Avani Dewangan
+Author-Avani Dewangan (avi)
